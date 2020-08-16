@@ -122,7 +122,7 @@ GEM
     unicorn (3.4.0)
       kgio (~> 2.2)
       rack
-    will_paginate (2.3.15)
+    will_paginate (3.0.5)
 
 PLATFORMS
   ruby
